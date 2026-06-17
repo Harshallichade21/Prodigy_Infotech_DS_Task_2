@@ -33,4 +33,4 @@ The following analyses were performed:
 Data cleaning and EDA helped uncover important patterns in the Titanic dataset. These insights can be useful for understanding the factors that influenced passenger survival.
 
 ### Author
-Harshal Lichade 
+<b>Harshal Lichade</b>: <a href="https://www.linkedin.com/in/harshal-lichade-507885334/"> (Linkdin) </a> </li>
