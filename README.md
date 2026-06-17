@@ -6,7 +6,7 @@
 Perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset to identify patterns, trends, and relationships between different variables.
 
 ### Dataset
-<a href="">Titanic Dataset</a>
+<a href="https://github.com/Harshallichade21/Prodigy_Infotech_DS_Task_2/blob/main/test.csv">Titanic Dataset</a>
 
 ### Tools Used
 - Python
