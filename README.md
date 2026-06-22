@@ -1,6 +1,7 @@
 # Prodigy InfoTech Data Science Internship Task 2:
 
-# <img width="1894" height="1053" alt="image" src="https://github.com/user-attachments/assets/4b9d3b22-134b-4c1c-964e-388f58bd3c67" />
+# <img width="1612" height="902" alt="Screenshot 2026-06-22 142710" src="https://github.com/user-attachments/assets/68771e4f-28ce-4eab-be3e-320bcdf7fa79" />
+
 
 ### Objective
 Perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset to identify patterns, trends, and relationships between different variables.
